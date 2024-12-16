@@ -178,7 +178,7 @@ Pastikan:
       <div className="w-full max-w-6xl bg-black shadow-2xl p-6">
         <div className="text-center mb-12">
           <div className="flex items-center justify-center gap-4 mb-4">
-            <Clapperboard className="text-6xl text-red-500" />
+            <Clapperboard className="text-8xl text-red-500" />
             <h1 className="text-5xl font-extrabold bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
               Flix.AI
             </h1>
